@@ -1,7 +1,9 @@
-# Challenge Backend Alura - ForoHub API 📫
+# Challenge Backend Alura - ForoHub API 📫 <img align="right" width="250" height="250" src="https://github.com/user-attachments/assets/b73ca110-287a-460e-9c0c-628e2f1d5828" />
+
 
 API REST desarrollada con **Spring Boot** para la gestión de tópicos en un foro académico.  
 Permite registrar, consultar, actualizar y eliminar tópicos, además de gestionar la autenticación de usuarios mediante **JWT** para proteger los endpoints.
+
 
 ---
 
@@ -118,4 +120,4 @@ Tablas principales:
 
 ## Autor
 
-Proyecto desarrollado por [Daniela Ojeda](https://www.linkedin.com/in/danielaoxeda/) como práctica de desarrollo deL Challenger Foro Hub - Prscticando con APIs de Alura Latam.
+Proyecto desarrollado por [Daniela Ojeda](https://www.linkedin.com/in/danielaoxeda/) como práctica de desarrollo deL Challenger Foro Hub - Prscticando con APIs de Alura Latam. 
